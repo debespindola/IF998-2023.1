@@ -1,0 +1,1 @@
+1. Crie uma aplicação console que funcionará como chat ponto a ponto, onde um cliente utiliza socket1 para se conectar a um Servidor. Tanto no cliente como no servidor será possível digitar mensagens do chat a partir do console.

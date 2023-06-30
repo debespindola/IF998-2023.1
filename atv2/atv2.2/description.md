@@ -1,0 +1,3 @@
+2. Considere um servidor que fornece um serviço de calculadora remota "avançada" que disponibiliza as operações artiméticas de adição, subtração, multiplicação e divisão. Os aplicativos clientes que utilizam o serviço devem se conectar e enviar dois inteiros como parâmetro, junto com o parâmetro indicando qual operação deve ser efetuada. O servidor devolve como resposta à aplicação cliente o resultado da operação. O cliente pode ser uma aplicação console que recebe os parâmetros e a operação através do terminal.
+  a. Implemente o cliente e servidor em TCP
+  b. Implemente o cliente e servidor em UDP

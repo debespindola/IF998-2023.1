@@ -1,0 +1,1 @@
+1. Semelhante ao exercício anterior com Sockets TCP, agora você utilizará sockets UDP1 para criar uma aplicação console que funcionará como chat ponto a ponto, onde um cliente se conecta a um Servidor e troca mensagens. Tanto no cliente como no servidor será possível digitar mensagens do chat a partir do console.
